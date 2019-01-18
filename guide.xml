@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo RJ HD">
+    <display-name lang="pt">Globo RJ HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-marilia.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo RJ">
+    <display-name lang="pt">Globo RJ</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-sp.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rbs.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvriosul.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="http://www.lineup.tv.br/canais/gnt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
